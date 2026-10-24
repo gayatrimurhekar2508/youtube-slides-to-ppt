@@ -6,7 +6,7 @@ on:
       youtube_url:
         description: 'YouTube Video URL'
         required: true
-        default: 'https://youtu.be/EIhoVK88HOU'
+        default: 'https://www.youtube.com/watch?v=q3Z3Qa1UNBA&list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd'
 
 jobs:
   build:
